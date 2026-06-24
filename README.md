@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Terminal-style GitHub Profile README -->
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 
-<!--
-**Bruce-0113/Bruce-0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```
+bruce@github:~$ cat README.md
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+# Bruce Huang
+
+**AI Engineer · LLM Systems · Medical AI **
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-hsun-huang-99a39b208/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:s24578111@gmail.com)
+
+</div>
