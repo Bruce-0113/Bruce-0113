@@ -15,7 +15,7 @@ bruce@github:~$ cat README.md
 
 # Bruce Huang
 
-**AI Engineer · LLM Systems · Medical AI **
+**AI Engineer · Computer Vision · LLM Systems · Medical AI **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-hsun-huang-99a39b208/)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:s24578111@gmail.com)
