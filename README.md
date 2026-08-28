@@ -69,6 +69,18 @@ bruce@github:~$ █
 ```
  
 ---
+
+## `$ ls ./recent-activity`
+ 
+<!-- recent_activity starts -->
+```
+[updated: —]
+ 
+  （每天 08:00 台灣時間自動更新）
+```
+<!-- recent_activity ends -->
+ 
+---
  
 <div align="center">
 <sub>Open to freelance opportunities in Computer Vision & Medical AI · Available on Upwork</sub>
