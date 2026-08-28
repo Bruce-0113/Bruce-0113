@@ -43,3 +43,18 @@ bruce@github:~$ cat README.md
 ```
  
 ---
+ 
+## `$ cat ./experience.log`
+ 
+```
+[2021-present]  AI Engineer · 睿傳數據股份有限公司
+                > Computer Vision pipelines for medical imaging (DICOM end-to-end)
+                > Model deployment on Docker / Kubernetes / GCP
+                > NLP components for structured medical text understanding
+                > Full lifecycle ownership: research → training → serving → monitoring
+                > Deployed on-premise LLMs (vLLM / SGLang) for document summarization & data extraction
+                > Built internal LLM pipelines with prompt engineering to optimize output quality
+                > Developed a RAG prototype for self-learning purposes
+```
+ 
+---
