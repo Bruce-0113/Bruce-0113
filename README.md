@@ -21,3 +21,25 @@ bruce@github:~$ cat README.md
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:s24578111@gmail.com)
 
 </div>
+
+---
+ 
+## `$ whoami`
+ 
+```json
+{
+  "role"     : "AI Engineer @ 睿傳數據股份有限公司",
+  "focus"    : ["Computer Vision", "NLP / LLM", "RAG & Prompt Engineering", "AI Agent", "On-premise LLM Deployment", "Model Deployment"],
+  "stack"    : {
+    "ai"    : ["PyTorch", "HuggingFace", "LangChain", "OpenCV", "vLLM", "SGLang"],
+    "mlops" : ["Docker", "Kubernetes", "GCP"],
+    "data"  : ["Oracle", "AWS S3"],
+    "vcs"   : ["GitHub", "GitLab"]
+  },
+  "edu"      : "M.S. Statistics, National Taipei University",
+  "exp"      : "3–4 years in AI model development & deployment",
+  "location" : "Taiwan 🇹🇼"
+}
+```
+ 
+---
