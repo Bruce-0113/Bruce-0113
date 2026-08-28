@@ -58,3 +58,18 @@ bruce@github:~$ cat README.md
 ```
  
 ---
+
+## `$ ping -c 1 Bruce`
+ 
+```
+> LinkedIn  →  www.linkedin.com/in/po-hsun-huang-99a39b208
+> Email     →  s24578111@gmail.com
+ 
+bruce@github:~$ █
+```
+ 
+---
+ 
+<div align="center">
+<sub>Open to freelance opportunities in Computer Vision & Medical AI · Available on Upwork</sub>
+</div>
