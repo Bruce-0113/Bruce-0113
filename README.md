@@ -74,13 +74,13 @@ bruce@github:~$ █
  
 <!-- recent_activity starts -->
 ```
-[updated: 2026-09-15 04:14 UTC]
+[updated: 2026-09-16 04:10 UTC]
 
   [ai-from-scratch](https://github.com/Bruce-0113/ai-from-scratch)  ·  A personal collection of CV and NLP fundamentals reimplemented from scratch. From convolution to attention — understanding the math behind the models.  ·  Python  ·  ⭐ 0  ·  pushed today
   [Bruce-0113](https://github.com/Bruce-0113/Bruce-0113)  ·  —  ·  Python  ·  ⭐ 0  ·  pushed today
-  [ai-paper-tracker](https://github.com/Bruce-0113/ai-paper-tracker)  ·  —  ·  Python  ·  ⭐ 0  ·  pushed 2 days ago
-  [useful-prompts-library](https://github.com/Bruce-0113/useful-prompts-library)  ·  A personal collection of reusable, battle-tested prompts, organized by category. Each prompt is a self-contained Markdown file: a one-line summary and tags up top, followed by the full prompt text ready to paste into any LLM.  ·  —  ·  ⭐ 0  ·  pushed 28 days ago
-  [financial_report_RAG](https://github.com/Bruce-0113/financial_report_RAG)  ·  A local offline RAG Q&A system for 2024 TSMC Annual Report, built with LlamaIndex, Ollama (qwen2.5:14b), BGE-M3 embeddings, ChromaDB, and Streamlit.   ·  Python  ·  ⭐ 0  ·  pushed 42 days ago
+  [ai-paper-tracker](https://github.com/Bruce-0113/ai-paper-tracker)  ·  —  ·  Python  ·  ⭐ 0  ·  pushed 3 days ago
+  [useful-prompts-library](https://github.com/Bruce-0113/useful-prompts-library)  ·  A personal collection of reusable, battle-tested prompts, organized by category. Each prompt is a self-contained Markdown file: a one-line summary and tags up top, followed by the full prompt text ready to paste into any LLM.  ·  —  ·  ⭐ 0  ·  pushed 29 days ago
+  [financial_report_RAG](https://github.com/Bruce-0113/financial_report_RAG)  ·  A local offline RAG Q&A system for 2024 TSMC Annual Report, built with LlamaIndex, Ollama (qwen2.5:14b), BGE-M3 embeddings, ChromaDB, and Streamlit.   ·  Python  ·  ⭐ 0  ·  pushed 43 days ago
 ```
 <!-- recent_activity ends -->
  
