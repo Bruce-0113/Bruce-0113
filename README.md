@@ -74,13 +74,13 @@ bruce@github:~$ █
  
 <!-- recent_activity starts -->
 ```
-[updated: 2026-10-30 05:06 UTC]
+[updated: 2026-10-31 04:52 UTC]
 
-  [slot-reel-designer](https://github.com/Bruce-0113/slot-reel-designer)  ·  Design slot machine reel strips that hit an exact target RTP and a minimum hit frequency, verified by exhaustive enumeration and Monte Carlo simulation.  ·  —  ·  ⭐ 0  ·  pushed today
+  [slot-reel-designer](https://github.com/Bruce-0113/slot-reel-designer)  ·  Design slot machine reel strips that hit an exact target RTP and a minimum hit frequency, verified by exhaustive enumeration and Monte Carlo simulation.  ·  Python  ·  ⭐ 0  ·  pushed today
   [ai-paper-tracker](https://github.com/Bruce-0113/ai-paper-tracker)  ·  —  ·  Python  ·  ⭐ 0  ·  pushed today
   [Bruce-0113](https://github.com/Bruce-0113/Bruce-0113)  ·  —  ·  Python  ·  ⭐ 0  ·  pushed today
-  [bruce-badminton](https://github.com/Bruce-0113/bruce-badminton)  ·  —  ·  Python  ·  ⭐ 0  ·  pushed 15 days ago
-  [ai-from-scratch](https://github.com/Bruce-0113/ai-from-scratch)  ·  A personal collection of CV and NLP fundamentals reimplemented from scratch. From convolution to attention — understanding the math behind the models.  ·  Python  ·  ⭐ 0  ·  pushed 43 days ago
+  [bruce-badminton](https://github.com/Bruce-0113/bruce-badminton)  ·  —  ·  Python  ·  ⭐ 0  ·  pushed 16 days ago
+  [ai-from-scratch](https://github.com/Bruce-0113/ai-from-scratch)  ·  A personal collection of CV and NLP fundamentals reimplemented from scratch. From convolution to attention — understanding the math behind the models.  ·  Python  ·  ⭐ 0  ·  pushed 44 days ago
 ```
 <!-- recent_activity ends -->
  
