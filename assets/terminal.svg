@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="494" height="184" viewBox="0 0 494 184" xml:space="preserve" role="img" aria-label="$ whoami → Bruce Huang · AI Engineer · Medical AI  $ echo $MISSION → Building AI that works reliably in the real world  $ cat README.md">
+<title>$ whoami → Bruce Huang · AI Engineer · Medical AI  $ echo $MISSION → Building AI that works reliably in the real world  $ cat README.md</title>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #e6edf3; }
+.user { fill: #3fb950; }
+.path { fill: #58a6ff; }
+.fg { fill: #e6edf3; }
+.out { fill: #c9d1d9; }
+.title { font-size: 12px; fill: #8b949e; }
+.hidden { opacity: 0; }
+.blink { animation: blink 1s steps(1) infinite; }
+@keyframes show { to { opacity: 1; } }
+@keyframes hide { to { opacity: 0; } }
+@keyframes blink { 50% { opacity: 0; } }
+@keyframes type0 { to { transform: translateX(54px); } }
+@keyframes type1 { to { transform: translateX(117px); } }
+@keyframes type2 { to { transform: translateX(117px); } }
+@media (prefers-reduced-motion: reduce) {
+  .hidden, .move { animation-duration: 0s !important; animation-delay: 0s !important; }
+}
+</style>
+<rect x="0.5" y="0.5" width="493" height="183" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 36 V10.5 A10 10 0 0 1 10.5 0.5 H483.5 A10 10 0 0 1 493.5 10.5 V36 Z" fill="#161b22"/>
+<line x1="0.5" y1="36" x2="493.5" y2="36" stroke="#30363d"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+<circle cx="40" cy="18" r="6" fill="#febc2e"/>
+<circle cx="60" cy="18" r="6" fill="#28c840"/>
+<text x="247" y="22" text-anchor="middle" class="title">bruce@github: ~</text>
+<g class="hidden" style="animation: show .01s steps(1) 0.00s forwards"><text x="22" y="66" textLength="198"><tspan class="user">bruce@github</tspan><tspan class="fg">:</tspan><tspan class="path">~</tspan><tspan class="fg">$ </tspan><tspan class="fg">whoami</tspan></text><rect class="move" x="166" y="49" width="56" height="24" fill="#0d1117" style="animation: type0 0.54s steps(6, end) 0.80s forwards"/></g>
+<g class="hidden" style="animation: show .01s steps(1) 0.00s forwards, hide .01s steps(1) 1.74s forwards"><g class="move" style="animation: type0 0.54s steps(6, end) 0.80s forwards"><rect class="blink" x="166" y="53" width="9" height="18" fill="#e6edf3"/></g></g>
+<g class="hidden" style="animation: show .01s steps(1) 1.74s forwards"><text x="22" y="90" textLength="342" class="out">Bruce Huang · AI Engineer · Medical AI</text></g>
+<g class="hidden" style="animation: show .01s steps(1) 1.89s forwards"><text x="22" y="114" textLength="261"><tspan class="user">bruce@github</tspan><tspan class="fg">:</tspan><tspan class="path">~</tspan><tspan class="fg">$ </tspan><tspan class="fg">echo $MISSION</tspan></text><rect class="move" x="166" y="97" width="119" height="24" fill="#0d1117" style="animation: type1 1.17s steps(13, end) 2.49s forwards"/></g>
+<g class="hidden" style="animation: show .01s steps(1) 1.89s forwards, hide .01s steps(1) 4.06s forwards"><g class="move" style="animation: type1 1.17s steps(13, end) 2.49s forwards"><rect class="blink" x="166" y="101" width="9" height="18" fill="#e6edf3"/></g></g>
+<g class="hidden" style="animation: show .01s steps(1) 4.06s forwards"><text x="22" y="138" textLength="441" class="out">Building AI that works reliably in the real world</text></g>
+<g class="hidden" style="animation: show .01s steps(1) 4.21s forwards"><text x="22" y="162" textLength="261"><tspan class="user">bruce@github</tspan><tspan class="fg">:</tspan><tspan class="path">~</tspan><tspan class="fg">$ </tspan><tspan class="fg">cat README.md</tspan></text><rect class="move" x="166" y="145" width="119" height="24" fill="#0d1117" style="animation: type2 1.17s steps(13, end) 4.81s forwards"/></g>
+<g class="hidden" style="animation: show .01s steps(1) 4.21s forwards"><g class="move" style="animation: type2 1.17s steps(13, end) 4.81s forwards"><rect class="blink" x="166" y="149" width="9" height="18" fill="#e6edf3"/></g></g>
+</svg>

@@ -1,11 +1,7 @@
 <!-- Terminal-style GitHub Profile README -->
 
 <div align="center">
-
-```
-bruce@github:~$ cat README.md
-```
-
+  <img src="assets/terminal.svg" alt="bruce@github:~$ whoami → Bruce Huang · AI Engineer · Medical AI" width="494">
 </div>
 
 ---
