@@ -17,6 +17,7 @@ bruce@github:~$ cat README.md
 **AI Engineer · Computer Vision · LLM Systems · Medical AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-hsun-huang-99a39b208/)
+[![Website](https://img.shields.io/badge/Bruce's_Notes-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://bruce-notes.s24578111.workers.dev/)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:s24578111@gmail.com)
 
 </div>
@@ -28,15 +29,16 @@ bruce@github:~$ cat README.md
 ```json
 {
   "role"     : "AI Engineer @ 睿傳數據股份有限公司",
-  "focus"    : ["Computer Vision", "NLP / LLM", "RAG & Prompt Engineering", "AI Agent", "On-premise LLM Deployment", "Model Deployment"],
+  "focus"    : ["Medical AI", "Computer Vision", "NLP / LLM", "RAG & AI Agents", "LLM Evaluation", "On-premise LLM Deployment"],
   "stack"    : {
-    "ai"    : ["PyTorch", "HuggingFace", "LangChain", "OpenCV", "vLLM", "SGLang"],
-    "mlops" : ["Docker", "Kubernetes", "GCP"],
-    "data"  : ["Oracle", "AWS S3"],
-    "vcs"   : ["GitHub", "GitLab"]
+    "llm"   : ["vLLM", "SGLang", "HuggingFace", "LangChain", "LlamaIndex", "LoRA", "Pydantic / instructor"],
+    "cv"    : ["PyTorch", "YOLOv5 / YOLOv7", "OpenCV", "DICOM"],
+    "mlops" : ["Docker", "Kubernetes", "GCP", "FastAPI"],
+    "data"  : ["Spark SQL", "Oracle", "AWS S3"]
   },
   "edu"      : "M.S. Statistics, National Taipei University",
   "exp"      : "4+ years in AI model development & deployment",
+  "site"     : "bruce-notes.s24578111.workers.dev",
   "location" : "Taiwan 🇹🇼"
 }
 ```
@@ -47,42 +49,73 @@ bruce@github:~$ cat README.md
  
 ```
 [2022.08-present]  AI Engineer · 睿傳數據股份有限公司
-                   > Computer Vision pipelines for medical imaging (DICOM end-to-end)
-                   > Model deployment on Docker / Kubernetes / GCP
-                   > NLP components for structured medical text understanding
-                   > Full lifecycle ownership: research → training → serving → monitoring
-                   > Deployed on-premise LLMs (vLLM / SGLang) for document summarization & data extraction
-                   > Built internal LLM pipelines with prompt engineering to optimize output quality
-                   > Developed a RAG prototype for self-learning purposes
+                   > Medical imaging CV pipelines, DICOM end-to-end (YOLOv7 detection, CNN regression)
+                   > LLM systems for medical reports: on-prem serving (vLLM / SGLang), structured extraction, evaluation
+                   > Health-report severity grading: 100K+ reports processed, ≥95% agreement with manual review
+                   > Full lifecycle ownership: research → training → serving → monitoring (Docker / K8s / GCP)
+
+[2017.01-2021.06]  Research Assistant · 國立臺北大學 大數據與智慧城市研究中心
+                   > Nationwide telecom-signaling population database for the Ministry of the Interior
+                   > Integrated billions of signaling records from three carriers with Spark SQL
 ```
  
 ---
 
-## `$ ping -c 1 Bruce`
- 
-```
-> LinkedIn  →  www.linkedin.com/in/po-hsun-huang-99a39b208
-> Email     →  s24578111@gmail.com
- 
-bruce@github:~$ █
-```
- 
+## `$ ls ./projects`
+
+<pre>
+<b>work/</b>  ·  case studies on <a href="https://bruce-notes.s24578111.workers.dev/projects/">bruce-notes/projects</a>
+  <a href="https://bruce-notes.s24578111.workers.dev/projects/report-qc/">report-qc</a>                     LLM QC for CT/MRI radiology reports · on-prem Gemma-4-31B
+  <a href="https://bruce-notes.s24578111.workers.dev/projects/health-report-classification/">health-report-classification</a>  BERT + LLM + rules · 100K+ reports · ≥95% agreement
+  <a href="https://bruce-notes.s24578111.workers.dev/projects/dental-xray-detection/">dental-xray-detection</a>         Two-stage YOLOv7 wisdom-tooth detection, panoramic X-ray
+  <a href="https://bruce-notes.s24578111.workers.dev/projects/ct-body-part-regression/">ct-body-part-regression</a>       CNN regression of body-part index per CT slice
+  <a href="https://bruce-notes.s24578111.workers.dev/projects/telecom-signaling-population/">telecom-signaling-population</a>  First nationwide telecom-signaling population stats
+
+<b>side/</b>
+  <a href="https://github.com/Bruce-0113/financial_report_RAG">financial_report_RAG</a>          Offline RAG on TSMC annual report · LlamaIndex + Ollama
+  <a href="https://github.com/Bruce-0113/bruce-badminton">bruce-badminton</a>               Local coach LLM: 9B → 4B distillation, LoRA, MLX 4-bit
+  <a href="https://github.com/Bruce-0113/ai-paper-tracker">ai-paper-tracker</a>              Daily arXiv digest (cs.AI/LG/CV/CL) via GitHub Actions
+  <a href="https://github.com/Bruce-0113/ai-from-scratch">ai-from-scratch</a>               CV and NLP fundamentals, reimplemented from scratch
+  <a href="https://github.com/Bruce-0113/slot-reel-designer">slot-reel-designer</a>            Exact-target-RTP reel strips · enumeration + Monte Carlo
+  <a href="https://github.com/Bruce-0113/useful-prompts-library">useful-prompts-library</a>        Reusable, battle-tested LLM prompts in Markdown
+</pre>
+
+---
+
+## `$ ls -t ./posts | head -5`
+
+<!-- latest_posts starts -->
+<pre>
+  2026-10-27  <a href="https://bruce-notes.s24578111.workers.dev/posts/rag-overview/">RAG 全貌：從固定 pipeline 到 agent 手上的檢索工具</a>
+  2026-10-15  <a href="https://bruce-notes.s24578111.workers.dev/posts/llm-inference-optimization/">LLM 推論效能優化：vLLM、SGLang 與 TensorRT-LLM 的調校方法</a>
+  2026-10-15  <a href="https://bruce-notes.s24578111.workers.dev/posts/hf-model-deployment/">從 Hugging Face 到上線：開源 LLM 的下載與部署實戰</a>
+  2026-10-13  <a href="https://bruce-notes.s24578111.workers.dev/posts/agent-control-flow/">Agent 的控制流：從 ReAct 到 Dynamic Workflows</a>
+  2026-10-02  <a href="https://bruce-notes.s24578111.workers.dev/posts/model-compression-overview/">模型壓縮全貌：量化、剪枝、蒸餾怎麼選、怎麼組合</a>
+
+  → <a href="https://bruce-notes.s24578111.workers.dev/">all posts, notes &amp; readings (zh-TW)</a>
+</pre>
+<!-- latest_posts ends -->
+
 ---
 
 ## `$ ls ./recent-activity`
  
 <!-- recent_activity starts -->
 <pre>
-  <a href="https://github.com/Bruce-0113/slot-reel-designer">slot-reel-designer</a>  ·  Design slot machine reel strips that hit an exact target RTP and a minimum hit frequency, verified by exhaustive enumeration and Monte Carlo simulation.  ·  Python  ·  ⭐ 0  ·  pushed 2026-11-02
-  <a href="https://github.com/Bruce-0113/bruce-badminton">bruce-badminton</a>  ·  —  ·  Python  ·  ⭐ 0  ·  pushed 2026-10-14
-  <a href="https://github.com/Bruce-0113/ai-from-scratch">ai-from-scratch</a>  ·  A personal collection of CV and NLP fundamentals reimplemented from scratch. From convolution to attention — understanding the math behind the models.  ·  Python  ·  ⭐ 0  ·  pushed 2026-09-16
-  <a href="https://github.com/Bruce-0113/useful-prompts-library">useful-prompts-library</a>  ·  A personal collection of reusable, battle-tested prompts, organized by category. Each prompt is a self-contained Markdown file: a one-line summary and tags up top, followed by the full prompt text ready to paste into any LLM.  ·  —  ·  ⭐ 0  ·  pushed 2026-08-18
-  <a href="https://github.com/Bruce-0113/financial_report_RAG">financial_report_RAG</a>  ·  A local offline RAG Q&amp;A system for 2024 TSMC Annual Report, built with LlamaIndex, Ollama (qwen2.5:14b), BGE-M3 embeddings, ChromaDB, and Streamlit.   ·  Python  ·  ⭐ 0  ·  pushed 2026-08-03
+  2026-11-02  <a href="https://github.com/Bruce-0113/slot-reel-designer">slot-reel-designer</a>      Python
+  2026-10-14  <a href="https://github.com/Bruce-0113/bruce-badminton">bruce-badminton</a>         Python
+  2026-09-16  <a href="https://github.com/Bruce-0113/ai-from-scratch">ai-from-scratch</a>         Python
+  2026-08-18  <a href="https://github.com/Bruce-0113/useful-prompts-library">useful-prompts-library</a>  —
+  2026-08-03  <a href="https://github.com/Bruce-0113/financial_report_RAG">financial_report_RAG</a>    Python
 </pre>
 <!-- recent_activity ends -->
  
 ---
+
+```
+bruce@github:~$ █
+```
  
 <div align="center">
-<sub>Open to freelance opportunities in Computer Vision & Medical AI · Available on Upwork</sub>
+<sub>Open to freelance opportunities in Computer Vision & Medical AI</sub>
 </div>
