@@ -25,14 +25,22 @@
 ```json
 {
   "role"     : "AI Engineer @ 睿傳數據股份有限公司",
-  "focus"    : ["Medical AI", "Computer Vision", "NLP / LLM", "RAG & AI Agents", "LLM Evaluation", "On-premise LLM Deployment"],
+  "focus"    : ["Medical AI", "Medical Imaging", "LLM for Medical Reports",
+                "LLM Evaluation", "On-premise LLM Serving", "RAG & AI Agents"],
   "stack"    : {
-    "llm"   : ["vLLM", "SGLang", "HuggingFace", "LangChain", "LlamaIndex", "LoRA", "Pydantic / instructor"],
-    "cv"    : ["PyTorch", "YOLOv5 / YOLOv7", "OpenCV", "DICOM"],
+    "lang"  : ["Python", "SQL"],
+    "ml"    : ["PyTorch", "TensorFlow / Keras", "HuggingFace", "BERT"],
+    "llm"   : ["vLLM", "SGLang", "Speculative Decoding", "Pydantic / instructor",
+               "LangChain", "LlamaIndex", "LoRA"],
+    "cv"    : ["YOLOv5 / YOLOv7", "OpenCV", "pydicom", "DICOM QC"],
     "mlops" : ["Docker", "Kubernetes", "GCP", "FastAPI"],
-    "data"  : ["Spark SQL", "Oracle", "AWS S3"]
+    "data"  : ["Spark SQL", "Oracle", "AWS S3"],
+    "stats" : ["Statistical Modeling", "Sampling & Estimation", "Regression / ANOVA"]
   },
-  "edu"      : "M.S. Statistics, National Taipei University",
+  "approach" : ["Frame the decision first: what it supports, what errors cost",
+                "Evaluate like a statistician: is the gain real?",
+                "Ship with guardrails: QC gates, regression tests, refuse when unsure"],
+  "edu"      : "B.S. & M.S. Statistics, National Taipei University",
   "exp"      : "4+ years in AI model development & deployment",
   "site"     : "bruce-notes.s24578111.workers.dev",
   "location" : "Taiwan 🇹🇼"
